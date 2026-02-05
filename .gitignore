@@ -1,0 +1,6 @@
+.vscode/
+build/
+
+dump.txt
+*.DS_Store
+*__pycache__*
