@@ -6,7 +6,11 @@ Sophia Lake is a general-purpose bring-up carrier board optimized for portabilit
 
 ****
 
+
 ![Sophia Lake](images/sophia_lake.png "Sophia Lake")
+
+Art by: [@seuiwu](https://www.instagram.com/seuiwu?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+
 
 
 
