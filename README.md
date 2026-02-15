@@ -35,6 +35,7 @@ Art by: [@seuiwu](https://www.instagram.com/seuiwu?utm_source=ig_web_button_shar
 | FPGA part      | XC7A100T-2FBG484I | XC7A200T-2FBG484I |
 | Logic Cells    | 101,440           | 215,360           |
 | DSP Slices     | 240               | 740               | 
+| Memory (Kbits) | 4,860             | 13,140            | 
 
 ### FPGA Features
 - 1GB DDR3L DRAM with 32-bit bus @ 400MHz (800 MT/s)
