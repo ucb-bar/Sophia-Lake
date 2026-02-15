@@ -62,15 +62,21 @@ Art by: [@seuiwu](https://www.instagram.com/seuiwu?utm_source=ig_web_button_shar
 
 # SODIMM Pinout
 
-
 ![SODIMM pinout](images/SODIMM_Pinout.png)
 
 
 
 
-# FPGA Pinout
+# Sophia Lake Pinout
+
+![Sophia Lake pinout](images/SL_Pinout.png)
 
 
 
-## Schematics/Layout
 
+
+
+# Schematics/Layout
+
+![Layout Top](images/layout_top.png)
+![Layout Bottom](images/layout_bottom.png)
