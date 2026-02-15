@@ -18,9 +18,15 @@ Art by: [@seuiwu](https://www.instagram.com/seuiwu?utm_source=ig_web_button_shar
 
 
 
-
 # Block Diagram
 ![Block Diagram](images/SL_block_diagram.png)
+
+<div style="text-align: center;">
+
+> *"Yufeng's hair style looks like Si-en"*\
+>   \- Sophia Shao 
+
+</div>
 
 # Specs
 ### On-board FPGA
@@ -76,7 +82,7 @@ Art by: [@seuiwu](https://www.instagram.com/seuiwu?utm_source=ig_web_button_shar
 
 
 
-# Schematics/Layout
+# Board Layout
 
 ![Layout Top](images/layout_top.png)
 ![Layout Bottom](images/layout_bottom.png)
