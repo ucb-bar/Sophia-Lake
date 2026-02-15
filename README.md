@@ -33,7 +33,7 @@ Art by: [@seuiwu](https://www.instagram.com/seuiwu?utm_source=ig_web_button_shar
 |                | Artix A7 100T     | Artix A7 200T     |
 | -----------    | -----------       | -----------       |
 | FPGA part      | XC7A100T-2FBG484I | XC7A200T-2FBG484I |
-| Logic Cells    | 101,440           | 33,650            |
+| Logic Cells    | 101,440           | 215,360           |
 | DSP Slices     | 240               | 740               | 
 
 ### FPGA Features
